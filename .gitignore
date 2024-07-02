@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+web_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment Variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
